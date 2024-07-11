@@ -1,0 +1,1 @@
+Pytorch implementation of paper: "Blum, A., Har-Peled, S., & Raichel, B. (2019). Sparse approximation via generating point sets. ACM Transactions on Algorithms (TALG), 15(3), 1-16." with adaptive margin selection strategy. 
